@@ -1,7 +1,7 @@
 # **TEAM ROLES**
 - Haris Zamir (CT-24125) Section C – **Document Specialist**
 - Muhammad Rafay (CT-24141) Section C – **Version Control Specialist**
-- Syed Muhammad Aqib (CT-150) Section C – **Coder**
+- Syed Muhammad Aqib (CT-24150) Section C – **Coder**
 # **CODE DOCUMENTATION**
 - **#include <stdio.h>:** For input and output operations.
 - **#include <stdlib.h>:** For functions like atoi to convert strings to integers.
